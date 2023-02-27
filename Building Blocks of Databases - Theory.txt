@@ -1,0 +1,20 @@
+4 building blocks of databases
+1. DML(Data Manipulation Language): Used to manipulate data stored in a database. It is used to add, delete, update and retrive data from the database.
+2. DDL(Data Definition Language): Used to define the structure of a database, including creating, altering, and dropping tables and other database objects.
+3. DCL(Data Control Language): Used to control access to the database by creating and managing user accounts and permissions.
+4. DQL(Data Query Language): Used to retrieve data from a database. It is similar to DML but only used for retriving data.
+
+Let's understand with a simple example
+Imagine you have a bunch of toys, and you want to put them in different boxes to keep them organized. When you do this, you can use different kinds of actions to move your toys around.
+
+Data Manipulation Language(DML) is like your actions to move your toys. You can add new toys to a box, take out toys you don't want anymore, change the color of a toys, or look at all the toys in the box.
+
+Data Definition Language(DDL) is like making a new box, taking out an old box, or changing the size or a color of a box. It helps you change the structure of your toy boxes. 
+
+Data Control Language(DCL) is like controlling who can play with your toys. You can decide who is allowed to take toys out of a box, who is not allowed, and who is allowed to look but not to touch.
+
+Data Query Language(DQL) is like asking your friend to help you find your favorite toys. You can ask your friend to find a toy with a certain color or shape, or you can ask them to look in all the boxes to find it. 
+
+Overall, DML, DDL, DCL, and DQL are different ways of working with data, just like moving toys around, making new boxes, controlling who can play with your toys, and asking your friends to help you find your favorite toy.
+
+You might be using them in your day-to-day life but having knowledge of what they are can give you better clarity.
