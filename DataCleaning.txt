@@ -1,0 +1,5 @@
+Using CONVERT we converted date format into a standardized form.
+We Populate Property Address Date. We then break out address into individual columns (address, city, state) - using two methods: SUBSTRING and PARSENAMES. After that we changed values with Y into
+Yes and N into No, so there were only two variants for SoldAsVacant. Then using CTE we removed duplicated, there were 104 duplicates.
+After that we deleted the unused columns that we modified earlier.
+
