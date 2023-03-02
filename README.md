@@ -34,3 +34,31 @@ two variants for SoldAsVacant. Then using CTE we removed duplicated, there were 
 * [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
 * [SQL Queries](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/DataCleaning.sql)
 
+## Correlation in Python
+Following the fourth video of this portfolio project: https://youtu.be/iPYVYBtUTyE we've been figuring correlation between movies
+specifications. We impoted tha packages and disabled the warning that pandas generates when you assign a new value to a slice of 
+a DataFrame.  Then we imported the data and checked our data. We removed the missing values and check our data types of the columns.
+We changed the data types of two columns and drop any duplicates. We than created a scatter plot that show correlation between budget
+and gross earnings with plt() and with seaborn library. Using seaborn library we added the correlation line. Using the pearson method
+we checked for any other major correlation and then we focused on plotted the correlation matrix to read the correlation easier.
+Then we hypothesized that there is a major correlation between gross earnings and companies creating the movie. Using for loop we 
+changed the all data type object into category type and then into numerical values of category. After that we created another correlation
+matrix for numeric features again using the pearson method. Then we unstacked the correlation into one column and pick the high correlated
+pairs and sorted them. Biggest take we can take from correlating this dataset is that there is a high correlation to gross earnings by 
+votes and budget. 
+
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/movies.csv)
+* [Python Code](https://github.com/rokzupan1/portfolio-projects/blob/main/Movie_Correlation_Project.ipynb)
+
+The Pearson correlation coefficient, Kendall rank correlation coefficient, and Spearman rank correlation coefficient are all measures of the degree of association or correlation between two variables. However, they differ in the types of data they are best suited for and the assumptions they make about the data.
+
+Pearson correlation coefficient:
+The Pearson correlation coefficient is used to measure the linear correlation between two continuous variables. It assumes that the data is normally distributed and that there is a linear relationship between the two variables. The Pearson correlation coefficient ranges from -1 to +1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and +1 indicates a perfect positive correlation.
+
+Kendall rank correlation coefficient:
+The Kendall rank correlation coefficient is a non-parametric measure of the degree of association between two variables. It measures the strength of the association between the two variables based on the ranks of the data, rather than the actual values of the data. It is often used when the data is not normally distributed or when there may be outliers. The Kendall rank correlation coefficient ranges from -1 to +1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and +1 indicates a perfect positive correlation.
+
+Spearman rank correlation coefficient:
+The Spearman rank correlation coefficient is also a non-parametric measure of the degree of association between two variables, similar to the Kendall rank correlation coefficient. However, it uses the actual values of the data, rather than the ranks of the data. It is often used when the data is not normally distributed or when there may be outliers. The Spearman rank correlation coefficient ranges from -1 to +1, where -1 indicates a perfect negative correlation, 0 indicates no correlation, and +1 indicates a perfect positive correlation.
+
+In summary, the Pearson correlation coefficient is best suited for continuous data that is normally distributed, while the Kendall rank correlation coefficient and Spearman rank correlation coefficient are best suited for non-parametric data or data that is not normally distributed. The choice of which correlation coefficient to use depends on the type of data being analyzed and the assumptions that can be made about the data.
