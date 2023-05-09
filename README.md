@@ -6,10 +6,10 @@ edited previously in Excel. I had to import the data using SQL Import and Export
 were preparation for later visualizations in Tableau.The file named SQLQuery3.sql was created by me. To use the same file as instructor in Tableau I 
 decided for further analysis file Tableau Portfolio Project SQL Queries.
 
-* [SQL Queries](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/SQLQuery3.sql)
-* [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/CovidVaccinations.xlsx)
-* [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/CovidDeaths.xlsx)
-* [Theory about SQL language](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Building%20Blocks%20of%20Databases%20-%20Theory.txt)
+* [SQL Queries](https://github.com/rokzupan1/portfolio-projects/blob/main/Data%20Exploration/SQLQuery3.sql)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Data%20Exploration/CovidVaccinations.xlsx)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Data%20Exploration/CovidDeaths.xlsx)
+* [Theory about SQL language](https://github.com/rokzupan1/portfolio-projects/blob/main/Data%20Exploration/Building%20Blocks%20of%20Databases%20-%20Theory.txt)
 
 ## Tableau Visualization
 Following the second video of this portfolio project: https://youtu.be/QILNlRvJlfQ we created visualizations in Tableau. 
