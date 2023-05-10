@@ -19,11 +19,11 @@ After that we created a simple dashboard containing all the 4 sheets. I learned 
 Here you can check the dashboard I created.
 
 * [Dashboard](https://public.tableau.com/views/covid-deaths-vaccinations/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-* [Edited SQL Queries](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
-* [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Tableau%20Table%201.xlsx)
-* [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Tableau%20Table%202.xlsx)
-* [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Tableau%20Table%203.xlsx)
-* [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Tableau%20Table%204.xlsx)
+* [Edited SQL Queries](https://github.com/rokzupan1/portfolio-projects/blob/main/Tableau%20Visualization/Tableau%20Portfolio%20Project%20SQL%20Queries.sql)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Tableau%20Visualization/Tableau%20Table%201.xlsx)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Tableau%20Visualization/Tableau%20Table%202.xlsx)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Tableau%20Visualization/Tableau%20Table%203.xlsx)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Tableau%20Visualization/Tableau%20Table%204.xlsx)
 
 ## Data Cleaning
 Following the third video of this portfolio project: https://youtu.be/8rO7ztF4NtU we've done some data cleaning. 
