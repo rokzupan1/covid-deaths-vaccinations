@@ -31,8 +31,8 @@ Using CONVERT we converted date format into a standardized form. We Populate Pro
 (address, city, state) - using two methods: SUBSTRING and PARSENAMES. After that we changed values with Y into Yes and N into No, so there were only 
 two variants for SoldAsVacant. Then using CTE we removed duplicated, there were 104 duplicates. After that we deleted the unused columns that we modified earlier.
 
-* [Data](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
-* [SQL Queries](https://github.com/rokzupan1/covid-deaths-vaccinations/blob/main/DataCleaning.sql)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Data%20Cleaning/Nashville%20Housing%20Data%20for%20Data%20Cleaning.xlsx)
+* [SQL Queries](https://github.com/rokzupan1/portfolio-projects/blob/main/Data%20Cleaning/DataCleaning.sql)
 
 ## Correlation in Python
 Following the fourth video of this portfolio project: https://youtu.be/iPYVYBtUTyE we've been figuring correlation between movies
