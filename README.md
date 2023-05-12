@@ -47,8 +47,8 @@ matrix for numeric features again using the pearson method. Then we unstacked th
 pairs and sorted them. Biggest take we can take from correlating this dataset is that there is a high correlation to gross earnings by 
 votes and budget. 
 
-* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/movies.csv)
-* [Python Code](https://github.com/rokzupan1/portfolio-projects/blob/main/Movie_Correlation_Project.ipynb)
+* [Data](https://github.com/rokzupan1/portfolio-projects/blob/main/Correlation%20in%20Python/movies.csv)
+* [Python Code](https://github.com/rokzupan1/portfolio-projects/blob/main/Correlation%20in%20Python/Movie_Correlation_Project.ipynb)
 
 The Pearson correlation coefficient, Kendall rank correlation coefficient, and Spearman rank correlation coefficient are all measures of the degree of association or correlation between two variables. However, they differ in the types of data they are best suited for and the assumptions they make about the data.
 
